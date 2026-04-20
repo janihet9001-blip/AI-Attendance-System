@@ -172,30 +172,25 @@ streamlit run Home.py
 
 ##  Demo
 
-> Add screenshots inside `assets/` folder
-
-```
-assets/
-│── Screenshot (1).png
-│── Screenshot (2).png
-│── Screenshot (3).png
-```
-
-Then use:
 <p align="center">
-  <img src="assets/dashboard.png" width="30%">
-  <img src="assets/detection.png" width="30%">
-  <img src="assets/report.png" width="30%">
+  <img src="assets/dashboard.png" width="30%" alt="Main Dashboard">
+  <img src="assets/detection.png" width="30%" alt="Real-Time Detection">
+  <img src="assets/report.png" width="30%" alt="Attendance Report">
 </p>
----
 
-## 🔮 Future Enhancements
+<p align="center">
+  <b>Main Dashboard</b> &nbsp;&nbsp;&nbsp;
+  <b>Real-Time Detection</b> &nbsp;&nbsp;&nbsp;
+  <b>Attendance Report</b>
+</p>
 
-* 🔐 Authentication system
-* 📱 Mobile app integration
-* ☁️ Cloud deployment
-* 📥 Export to Excel / PDF
-* 📊 Analytics dashboard
+##  Future Enhancements
+
+*  Authentication system
+*  Mobile app integration
+*  Cloud deployment
+*  Export to Excel / PDF
+*  Analytics dashboard
 
 ---
 
