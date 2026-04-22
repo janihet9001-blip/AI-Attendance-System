@@ -192,20 +192,5 @@ streamlit run Home.py
 *  Export to Excel / PDF
 *  Analytics dashboard
 
----
-
-## Resume Value
-
-This project demonstrates:
-
-* AI + Computer Vision
-* Real-time processing
-* Database integration
-* Full-stack development
-
- Ideal for:
-
-* AI/ML Internships
-* Software Engineering roles
 
 ---
